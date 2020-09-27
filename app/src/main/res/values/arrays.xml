@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="trans">
+        <item>纳米</item>
+        <item>微米</item>
+        <item>毫米</item>
+        <item>厘米</item>
+        <item>米</item>
+        <item>千米</item>
+    </string-array>
+
+    <string-array name="sys">
+        <item>2</item>
+        <item>8</item>
+        <item>10</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="rate">
+        <item>人民币CNY</item>
+        <item>美元USD</item>
+    </string-array>
+
+    <string-array name="volume">
+        <item>m³</item>
+        <item>dm³</item>
+        <item>cm³</item>
+        <item>mm³</item>
+        <item>公升hl</item>
+        <item>升l</item>
+        <item>分升dl</item>
+        <item>厘升cl</item>
+        <item>毫升ml</item>
+    </string-array>
+
+    <string-array name="square">
+        <item>km²</item>
+        <item>m²</item>
+        <item>dm²</item>
+        <item>cm²</item>
+        <item>mm²</item>
+        <item>公顷ha</item>
+        <item>公亩a</item>
+        <item>英亩ac</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>C</item>
+        <item>F</item>
+        <item>K</item>
+    </string-array>
+
+
+</resources>
+
